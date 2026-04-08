@@ -1,7 +1,4 @@
-
-
-
-📌 # titanic_survivial_prediction (Exploratory Data Analysis)
+ # titanic_survivial_prediction (Exploratory Data Analysis)
 
 This project performs Exploratory Data Analysis (EDA) on the famous Titanic dataset using Python. The goal is to analyze passenger data and identify patterns that influenced survival during the Titanic disaster.
 
